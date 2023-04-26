@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="/src/images/img-readme.png" alt="Logo" width="80" height="80">
+  <img src="/src/images/img-readme.png" alt="Logo">
   <h3 align="center">Internship NCC</h3>
   <p align="center">
     News Website
