@@ -6,7 +6,7 @@
   <p align="center">
     News Website
     <br/>
-    <a href="https://rose-petals.vercel.app"><strong>View »</strong></a>
+    <a href="https://internship-ncc.vercel.app"><strong>View »</strong></a>
   </p>
 </div>
 
