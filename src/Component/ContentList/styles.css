@@ -1,0 +1,32 @@
+.list-content {
+  margin-top: 40px;
+  display: flex;
+  gap: 50px;
+  margin-bottom: 20px;
+}
+
+.item__title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.item__content {
+  color: #000000;
+}
+
+.image-content {
+  float: left;
+  margin-right: 16px;
+}
+
+@media screen and (max-width: 800px) {
+  .list-content {
+    gap: 10px;
+    flex-direction: column;
+    padding: 0 15px;
+  }
+}
+
